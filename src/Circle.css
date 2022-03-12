@@ -1,0 +1,18 @@
+.dot-no {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border-width: 2px;
+  padding: 3px;
+  background-color: white;
+  display: inline-block;
+}
+.dot-yes {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border-width: 2px;
+  padding: 3px;
+  background-color: red;
+  display: inline-block;
+}

@@ -1,0 +1,11 @@
+.eksath {
+  padding: 20px;
+  align-items: center;
+  display: flex;
+  margin-right: 100%;
+}
+.middiv {
+  flex: 1;
+  margin: 2px;
+
+}
